@@ -1,4 +1,9 @@
 # Hello, Welcome to My Portfolio!
+<div style="border-radius:10px; background: #DAF0F7; margin-bottom: 0px; font-size: 100%; padding: 20px;">
+    <b><p>Hi! Welcome to my data scientist portfolio :sunflower: </b></p> 
+    </div>
+    <div style="width: 0px; height: 0px; border-style: solid; border-width: 15px 15px 0 15px; border-color: #DAF0F7 transparent transparent transparent; margin-left: 30px; margin-bottom: 20px;"></div>
+
 
 I am a recent college graduate with 3 years of statistical data analysis experience in Python, R, and Linux **seeking employment!**
 - 🔭 I’m currently developing image-processing **Machine Learning Algorithm** to study space 🌌
@@ -63,7 +68,8 @@ I am a ...
 ## <img align="left" width="300" height="200" src="Portfolio_images/glycerol.gif.gif">  2D Particle Tracking & Statistical Analysis of Coordinates (https://github.com ... ) <br>
 **Description:** <br>
 **Tools used:**  OpenCV, Python (Jupyter notebook), R (RStudio), SciPy, NumPy, seaborn, Matplotlib <br>
-**Keywords:** image processing, object tracking, time series analysis, linear regression, error analysis, data visualization <br>
+**Keywords:** image processing, object tracking, time series analysis, linear regression, error analysis, data visualization, aaaa add more? <br>
+[**Project presentation**](https://docs.google.com/presentation/d/1zoPF6esKpLIvcKp6EGz1OubzBa34gI1Ysxdli4kYFGo/edit?usp=sharing) <br>
 
 
 
