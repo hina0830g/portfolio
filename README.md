@@ -36,6 +36,7 @@ I am a ...
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white)
 
 
 ### Operating Systems:
@@ -48,3 +49,21 @@ I am a ...
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![Ableton Live](https://img.shields.io/badge/Ableton_Live-black?style=flat&logo=Ableton+Live&logoColor=white)
+
+## 🏫 Projects:
+## <img align="left" width="300" height="200" src="Portfolio_images/tempo_hist_nolabels.png"> **Spotify 2000-2019 Top Hits Analysis** (https://github.com ... )<br>
+
+**Description:** <br>
+**Tools used:**  Python (Jupyter notebook), R (RStudio), SciPy, NumPy, seaborn, Matplotlib, Kaggle<br>
+**Keywords:** clustering, pattern recognition,  time series analysis, linear regression, predictive modeling, two-sample hypothesis test, data visualization<br>
+<br>
+<br>
+<br>
+
+## <img align="left" width="300" height="200" src="Portfolio_images/glycerol.gif.gif">  2D Particle Tracking & Statistical Analysis of Coordinates (https://github.com ... ) <br>
+**Description:** <br>
+**Tools used:**  OpenCV, Python (Jupyter notebook), R (RStudio), SciPy, NumPy, seaborn, Matplotlib <br>
+**Keywords:** image processing, object tracking, time series analysis, linear regression, error analysis, data visualization <br>
+
+
+
