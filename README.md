@@ -1,4 +1,4 @@
-# Hello, Welcome to My Portfolio 🌻
+# Hello! Welcome to My Portfolio🌻
 
 I am a recent college graduate with 3 years of statistical data analysis experience in Python, R, and Linux **seeking employment!**
 - 🔭 I’m currently developing image-processing **Machine Learning Algorithm** to be used in research 🌌
@@ -8,14 +8,15 @@ I am a recent college graduate with 3 years of statistical data analysis experie
 - 😄 Pronouns: she/her
 - 🎷 Fun fact: I have a Minor in Music & I play Alto Saxophone (since 2012~)✨!
 
-## 📖 About Me 
+## `📖 About Me 📖` 
 I am a ...
 - :atom:  BS Physics Graduate, Class of 2023
-- 📡 former NASA Goddard (GSFC-6620) Intern 
+- 📡 former NASA Goddard (GSFC-6620) Intern
 - 🔭 Astrophysics Research Scientist 
 - 🎼 Musician & aspiring music data analyst 
 
-## 💻 Skills 
+
+## `💻 Skills 💻`
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=Python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
@@ -49,8 +50,8 @@ I am a ...
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![Ableton Live](https://img.shields.io/badge/Ableton_Live-black?style=flat&logo=Ableton+Live&logoColor=white)
 
-## 🏫 Projects:
-## <img align="left" width="300" height="250" src="Portfolio_images/tempo_hist_nolabels.png"> [Spotify 2000-2019 Top Hits Analysis](https://github.com)<br>
+## `🏫 Projects 🏫`
+## <img align="left" width="300" height="250" src="Portfolio_images/tempo_hist_nolabels.png"> [Spotify 2000-2019 Top Hits Audio Stats Analysis](https://github.com)<br>
 💬**Description:** 
 Extracted an audio statistics dataset on Kaggle and used Python and R to perform trend analysis on top 2000 tracks on Spotify between '00-19. We identified critical patterns and transition of the music trends over 2 decades by running linear regression and hypothesis testing. <br>
 🧰**Tools used:**  Python (Jupyter notebook), R (RStudio), SciPy, NumPy, seaborn, Matplotlib, Kaggle<br>
@@ -64,6 +65,13 @@ Extracted an audio statistics dataset on Kaggle and used Python and R to perform
 [🗣️**Project presentation**](https://docs.google.com/presentation/d/1zoPF6esKpLIvcKp6EGz1OubzBa34gI1Ysxdli4kYFGo/edit?usp=sharing) <br>
 
 #
+## <img align="left" width="300" height="250" src="Portfolio_images/space_mosaic2.png">  [Space Image Processing with High-Performance Computing](https://github.com/hina0830g/GALEX_montage) <br>
+💬**Description:** Queried space images (a set of 3780x3780 arrays), performed object detection and applied Gaussian filters, montaged the files to create mosaics. Rendered over 50GB of images. <br>
+🧰**Tools used:** bash shell, SSH, HPC systems, Linux Python (Jupyter notebook), Pandas, NumPy <br>
+🔑**Keywords:**  big data, supercomputers, parallel computing, image processing/analysis, object detection, multidimensional arrays<br>
+<br>
+<br>
+<br>
 
 ## <img align="left" width="300" height="250" src="Portfolio_images/UDG_image.jpg">  [Statistical Study of Ultra-diffuse Galaxies](https://github.com/hina0830g/Research/tree/master/UDGs) <br>
 💬**Description:** Ran Python query to extract astronomical data taken by a telescope and performed statistical analysis on the extracted data. I calculated the weighted distribution and mean number of the galaxies within the given radius by performing power law fit & Monte Carlo simulations. <br>
@@ -76,7 +84,7 @@ Extracted an audio statistics dataset on Kaggle and used Python and R to perform
 ## <img align="left" width="300" height="250" src="Portfolio_images/AGN_NASA.jpg">  [Spectral Simulations of Black Hole Environment](https://github.com/hina0830g/Summer2022_NASA_Goddard/tree/main) <br>
 💬**Description:** I ran numerical simulations in Linux environment  <br>
 🧰**Tools used:**  Cloudy (Linux software), Python (Jupyter notebook, Spyder), SciPy, NumPy, Matplotlib <br>
-🔑**Keywords:** data visualization <br>
+🔑**Keywords:** numerical simulations, data visualizationm, documentation <br>
 [🗣️**Project presentation**](https://docs.google.com/presentation/d/16yqPdSYZ2PommPl5Mye2Qg7igPNHcY4--4dA71-tooM/edit?usp=sharing) <br>
 <br>
 <br>
@@ -86,13 +94,24 @@ Extracted an audio statistics dataset on Kaggle and used Python and R to perform
 💬**Description:** Wrote Python scripts that perform time series analysis on.txt files involving brightness of a star. My Python code executed Verlet Integration to numerically solve 2nd order differential equation and calculated properties such as orbital speed and force. Lastly, Matplotlib was used to create animations serving as simulation of the movement of the exoplanet. <br>
 🧰**Tools used:**  Python (Spyder), SciPy, NumPy, Matplotlib <br>
 🔑**Keywords:** Numerical Analysis, Verlet Integration, Time Series Analysis, Animation, Data Visualization <br>
-[🗣️**Project presentation**](https://docs.google.com/presentation/d/1g2RyK2_tuMdq62ASCVdIIQu7vu4UddExgxco-eRV1OE/edit?usp=sharing) <br>
+[🗣️**Project Presentation**](https://docs.google.com/presentation/d/1g2RyK2_tuMdq62ASCVdIIQu7vu4UddExgxco-eRV1OE/edit?usp=sharing) <br>
+
+## `✍️ Papers ✍️`
+### Publications
+* [Systematically Measuring Ultra-Diffuse Galaxies (SMUDGes). IV. Ultra-Diffuse Satellites of Milky Way Analogs](https://arxiv.org/pdf/2303.00774.pdf) (Astrophysical Journal, 1st Author)
+* [Systematically Measuring Ultra-Diffuse Galaxies (SMUDGes). V. Low Surface Brightness Satellites of L* Galaxies](https://aas240-aas.ipostersessions.com/Default.aspx?s=58-75-41-D7-48-BC-58-35-A5-3F-A5-44-08-3B-36-CF#) (American Astronomical Society 240th Annual Conference)
+* [Determining Dispersal Mechanisms of Protoplanetary Disks Using Accretion and Wind
+Mass Loss Rates](https://iopscience.iop.org/article/10.3847/2041-8213/ac50aa/pdf) (Astrophysical Journal, 5th Author)
+
+### Project Reports
+* [2D Particle Tracking & Random Walk Analysis Report](https://drive.google.com/file/d/1kL2-4DdOWwz1NXxwDG3-ltJBXtw6vsh3/view?usp=drive_link)
+* [Random Walk Simulation Analysis Report](https://drive.google.com/file/d/1wDcFMbgbpgFvdben4DCxqZSBu_MpHoCY/view?usp=drive_link)
+* [Systematically Measuring Ultra-Diffuse Galaxies (SMUDGes). V. Low Surface Brightness Satellites of L* Galaxies](https://docs.google.com/presentation/d/1jx7ry6UWkJojYWGoRGDdcNWwMSWGbwd2/edit?usp=drive_link&ouid=111899210983321629360&rtpof=true&sd=true) (Research Poster)
 
 ## 🎵Finally...
 [![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/hina-goto-698627947) Check out my music on Sound Cloud! I  do everything from composition, recording, and mixing using Ableton Live 😺
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/67ikzw44o5zkysi7wt5uvs8om?si=5c6e78947f9b4b32) Check out the Python generated playlists my Spotipy API algirthm created! <br>
-
 
 
 ### 🎧 Currently listening to
