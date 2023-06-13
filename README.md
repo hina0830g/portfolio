@@ -66,22 +66,21 @@ I am a recent college graduate with 3 years of statistical data analysis experie
 ## <img align="left" width="300" height="250" src="Portfolio_images/tempo_hist_nolabels.png"> [Spotify 2000-2019 Top Hits Audio Stats Analysis](https://github.com/hina0830g/Spotify-Top-Charts-Analysis)<br>
 💬**Description:** 
 Extracted an audio statistics dataset on Kaggle and used Python and R to perform trend analysis on top 2000 tracks on Spotify between '00-19. We identified critical patterns and transition of the music trends over 2 decades by running linear regression and hypothesis testing. <br>
-🧰**Tools used:**  Python (Jupyter notebook), R (RStudio), SciPy, NumPy, seaborn, Matplotlib, Kaggle<br>
+🧰**Tools used:**  Python, R, SciPy, NumPy, seaborn, Matplotlib, Kaggle<br>
 🔑**Keywords:** clustering, pattern recognition,  time series analysis, linear regression, predictive modeling, two-sample hypothesis test, data visualization<br>
 <br>
 #
 
-## <img align="left" width="300" height="250" src="Portfolio_images/nobel.jpg">  [2D Particle Tracking & Random Walk Analysis](https://github.com) <br>
+## <img align="left" width="300" height="250" src="Portfolio_images/nobel.jpg">  [2D Particle Tracking & Random Walk Analysis](https://github.com/hina0830g/Random_Walk_Analysis) <br>
 💬**Description:** Observed the random motions of 1 μm particles in solutions and tracked their locations over time using OpenCV. I used the locations (coordinates) to calculate mean squared displacement and experimentally determined Avogadro's Number with Python and R. This is a replication of 1926 Physics Nobel Prize winnning experiment. <br>
 🧰**Tools used:**  OpenCV, Python (Jupyter notebook), R (RStudio), SciPy, NumPy, Seaborn <br>
 🔑**Keywords:** image processing, object tracking, time series analysis, linear regression, error analysis, data visualization, aaaa add more? <br>
 [🗣️**Project presentation**](https://docs.google.com/presentation/d/1zoPF6esKpLIvcKp6EGz1OubzBa34gI1Ysxdli4kYFGo/edit?usp=sharing) <br>
 #
 ## <img align="left" width="300" height="250" src="Portfolio_images/space_mosaic2.png">  [Space Image Processing with High-Performance Computing](https://github.com/hina0830g/GALEX_montage) <br>
-💬**Description:** Queried space images (a set of 3780x3780 arrays), performed object detection and applied Gaussian filters, montaged the files to create mosaics. Rendered over 50GB of images. <br>
+💬**Description:** Queried space images (a set of 3780 x 3780 arrays), performed object detection and applied Gaussian filters, montaged the files to create mosaics. Rendered over 50GB of images. <br>
 🧰**Tools used:** bash shell, SSH, HPC systems, Linux Python (Jupyter notebook), Pandas, NumPy <br>
 🔑**Keywords:**  big data, supercomputers, parallel computing, image processing/analysis, object detection, multidimensional arrays<br>
-<br>
 <br>
 <br>
 #
