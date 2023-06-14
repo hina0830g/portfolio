@@ -68,6 +68,7 @@ I am a recent college graduate with 3 years of statistical data analysis experie
 Extracted an audio statistics dataset on Kaggle and used Python and R to perform trend analysis on top 2000 tracks on Spotify between '00-19. We identified critical patterns and transition of the music trends over 2 decades by running linear regression and hypothesis testing. <br>
 🧰**Tools used:**  Python, R, SciPy, NumPy, seaborn, Matplotlib, Kaggle<br>
 🔑**Keywords:** clustering, pattern recognition,  time series analysis, linear regression, predictive modeling, two-sample hypothesis test, data visualization<br>
+[🗣️**Project presentation**](https://docs.google.com/presentation/d/1asW_ME-yh7RMnZsJwp18_0_Lb19hRCX5/edit?usp=drive_link&ouid=111899210983321629360&rtpof=true&sd=true)
 <br>
 #
 
@@ -82,28 +83,27 @@ Extracted an audio statistics dataset on Kaggle and used Python and R to perform
 🧰**Tools used:** bash shell, SSH, HPC systems, Linux Python (Jupyter notebook), Pandas, NumPy <br>
 🔑**Keywords:**  big data, supercomputers, parallel computing, image processing/analysis, object detection, multidimensional arrays<br>
 <br>
+#
+
+## <img align="left" width="300" height="250" src="Portfolio_images/AGN_NASA.jpg">  [Linux Simulations & Data Analysis of Black Hole Environment](https://github.com/hina0830g/Summer2022_NASA_Goddard/tree/main) <br>
+💬**Description:** Duration my summer internship at NASA, I ran numerical simulations of the gas near supermassive black hole in Linux and developed Python modules to analyze the simulation results. I developed data visualization codes to tell the story the interpretation of the results and findings. <br>
+🧰**Tools used:**  Nano, Cloudy (Linux software), Python SciPy, NumPy, Matplotlib <br>
+🔑**Keywords:** linux computing, numerical simulations, modelling, data visualizationm, documentation <br>
+[🗣️**Project presentation**](https://docs.google.com/presentation/d/16yqPdSYZ2PommPl5Mye2Qg7igPNHcY4--4dA71-tooM/edit?usp=sharing) <br>
 
 #
+
 
 ## <img align="left" width="300" height="250" src="Portfolio_images/UDG_image.jpg">  [Statistical Study of Ultra-diffuse Galaxies](https://github.com/hina0830g/Research/tree/master/UDGs) <br>
 💬**Description:** Ran Python query to extract astronomical data taken by a telescope and performed statistical analysis on the extracted data. I calculated the weighted distribution and mean number of the galaxies within the given radius by performing power law fit & Monte Carlo simulations. <br>
 🧰**Tools used:**  Python (Jupyter notebook), Astropy query, SciPy, NumPy, Matplotlib <br>
-🔑**Keywords:** large query,  Monte Carlo simulations, power-law fitting, error analysis, data visualization, scientific writing <br>
+🔑**Keywords:** large query,  Monte Carlo, power-law fit, error analysis, data visualization, scientific writing <br>
 [🗣️**Research Poster**](https://aas240-aas.ipostersessions.com/Default.aspx?s=58-75-41-D7-48-BC-58-35-A5-3F-A5-44-08-3B-36-CF#) <br>
 
 #
 
-## <img align="left" width="300" height="250" src="Portfolio_images/AGN_NASA.jpg">  [Spectral Simulations of Black Hole Environment](https://github.com/hina0830g/Summer2022_NASA_Goddard/tree/main) <br>
-💬**Description:** I ran numerical simulations in Linux environment  <br>
-🧰**Tools used:**  Cloudy (Linux software), Python (Jupyter notebook, Spyder), SciPy, NumPy, Matplotlib <br>
-🔑**Keywords:** numerical simulations, data visualizationm, documentation <br>
-[🗣️**Project presentation**](https://docs.google.com/presentation/d/16yqPdSYZ2PommPl5Mye2Qg7igPNHcY4--4dA71-tooM/edit?usp=sharing) <br>
-<br>
-<br>
-#
-
-## <img align="left" width="300" height="250" src="Portfolio_images/WASP_75B.png">  [Time Series Analysis of Exoplanet & Simulation with Animation ](https://github.com/hina0830g/Summer2022_NASA_Goddard/tree/main) <br>
-💬**Description:** Wrote Python scripts that perform time series analysis on.txt files involving brightness of a star. My Python code executed Verlet Integration to numerically solve 2nd order differential equation and calculated properties such as orbital speed and force. Lastly, Matplotlib was used to create animations serving as simulation of the movement of the exoplanet. <br>
+## <img align="left" width="300" height="250" src="Portfolio_images/WASP_75B.png">  [Time Series Analysis of Exoplanet & Animated Simulation ](https://github.com/hina0830g/Summer2022_NASA_Goddard/tree/main) <br>
+💬**Description:** Wrote Python scripts that perform time series analysis on.txt files involving brightness of a star. Used Verlet integration to numerically solve 2nd order differential equation of motion and calculated orbital speed, force and more. Lastly, Matplotlib was used to create animations serving as simulation of the movement of the exoplanet. <br>
 🧰**Tools used:**  Python (Spyder), SciPy, NumPy, Matplotlib <br>
 🔑**Keywords:** Numerical Analysis, Verlet Integration, Time Series Analysis, Animation, Data Visualization <br>
 [🗣️**Project Presentation**](https://docs.google.com/presentation/d/1g2RyK2_tuMdq62ASCVdIIQu7vu4UddExgxco-eRV1OE/edit?usp=sharing) <br>
