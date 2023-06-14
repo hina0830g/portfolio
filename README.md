@@ -63,16 +63,20 @@ I am a recent college graduate with 3 years of statistical data analysis experie
 
 <h2 align="center"><b> 🏫 Projects 🏫</b></h2>
 
-## <img align="left" width="300" height="250" src="Portfolio_images/tempo_hist_nolabels.png"> [Spotify 2000-2019 Top Hits Audio Stats Analysis](https://github.com/hina0830g/Spotify-Top-Charts-Analysis)<br>
+## [Spotify 2000-2019 Top Hits Audio Stats Analysis](https://github.com/hina0830g/Spotify-Top-Charts-Analysis)<br>
+<img align="right" width="250" height="200" src="Portfolio_images/tempo_hist_nolabels.png"> 
+
 💬**Description:** 
 Extracted an audio statistics dataset on Kaggle and used Python and R to perform trend analysis on top 2000 tracks on Spotify between '00-19. We identified critical patterns and transition of the music trends over 2 decades by running linear regression and hypothesis testing. <br>
 🧰**Tools used:**  Python, R, SciPy, NumPy, seaborn, Matplotlib, Kaggle<br>
 🔑**Keywords:** clustering, pattern recognition,  time series analysis, linear regression, predictive modeling, two-sample hypothesis test, data visualization<br>
 [🗣️**Project presentation**](https://docs.google.com/presentation/d/1asW_ME-yh7RMnZsJwp18_0_Lb19hRCX5/edit?usp=drive_link&ouid=111899210983321629360&rtpof=true&sd=true)
 <br>
-#
 
-## <img align="left" width="250" height="200" src="Portfolio_images/nobel.jpg">  [2D Particle Tracking & Random Walk Analysis](https://github.com/hina0830g/Random_Walk_Analysis) <br>
+
+## [2D Particle Tracking & Random Walk Analysis](https://github.com/hina0830g/Random_Walk_Analysis) <br>
+<img align="right" width="250" height="200" src="Portfolio_images/nobel.jpg"> 
+
 💬**Description:** Observed the random motions of 1 μm particles in solutions and tracked their locations over time from videos using OpenCV. I used the locations (coordinates) to calculate mean squared displacement and experimentally determined Avogadro's Number. A replication of 1926 Physics Nobel Prize experiment. <br>
 🧰**Tools used:**  OpenCV, Python (Jupyter notebook), R (RStudio), SciPy, NumPy, Seaborn <br>
 🔑**Keywords:** video analysis, image processing, object tracking, time series analysis, linear regression, error analysis, data visualization. <br>
