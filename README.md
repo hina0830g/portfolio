@@ -2,7 +2,7 @@
 <h1 align="center"> Hello! Welcome to My Portfolio🌻</h1>
 
 I am a recent college graduate with 3 years of statistical data analysis experience in Python, R, and Linux **seeking employment!** <br>
-- 🔭 I’m currently developing image-processing **Machine Learning Algorithm** to be used in research 🌌
+- 🔭 I’m currently developing image-processing **Supercomputer Algorithm** to be used in research 🌌
 - 🌱 I’m currently learning Tableau
 - 💬 Ask me about my statistical analysis research projects
 - 📫 Reach me out at **hina0830g@gmail.com**
@@ -17,8 +17,8 @@ I am a recent college graduate with 3 years of statistical data analysis experie
     <ul>
         <li>:atom:  BS Physics Graduate, Class of 2023 </li>
         <li>📡 Former NASA Goddard Intern worked on Python data analysis </li>
-        <li>🔭 ML Researcher in Astrophysics </li>
-        <li>🎼 Musician & aspiring music data analyst </li>
+        <li>🔭 Data Analysis Researcher in Astrophysics </li>
+        <li>🎼 Musician & aspiring data analyst </li>
     </ul>
 <br>
 
