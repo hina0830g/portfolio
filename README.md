@@ -145,7 +145,7 @@ Mass Loss Rates](https://iopscience.iop.org/article/10.3847/2041-8213/ac50aa/pdf
 | :---: | --- |
 | 🔢 **Math** | Calculus I-III, Differential Equation, Linear Algebra, Math Techniques (Probability Theory, Fourier Analysis, Complex Analysis) |
 | :woman_technologist:**Programming** | ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) : Statistical Method in Data Science <br> ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=Python&logoColor=ffdd54) : Computer Programming I, Big Data and Data Mining, Independent & Directed Research, Computational Physics |
-| :atom: **Physics** | Statistical Mechanics, Mechanics I-II, Electricity & Magnetism I-III, Quantum Mechanics I-III, Nuclear Physics, 5 semesters of Physics lab |
+| :atom: **Physics** | Statistical Mechanics, Mechanics I-II, Electricity & Magnetism I-III, Quantum Mechanics I-III, Nuclear Physics, 5 semesters of Physics lab, Thermodynamics, Optics |
 | 🎹 **Music** | Music Theory I & II, Electronic Music production, Music Business, Vocal Techniques, Guitar Techniques I & II, Concert & Marching Band |
 
 ### 🏅 Awards: 
