@@ -68,7 +68,7 @@ I am a recent college graduate with 3 years of statistical data analysis experie
 
 💬**Description:** 
 Extracted an audio statistics dataset on Kaggle and used Python and R to perform trend analysis on top 2000 tracks on Spotify between '00-19. We identified critical patterns and transition of the music trends over 2 decades by running linear regression and hypothesis testing. <br>
-🧰**Tools used:**  Python, R, SciPy, NumPy, seaborn, Matplotlib, Kaggle<br>
+🧰**Tools used:**  Python, R markdown, SciPy, NumPy, seaborn, Kaggle<br>
 🔑**Keywords:** clustering, pattern recognition,  time series analysis, linear regression, predictive modeling, two-sample hypothesis test, data visualization<br>
 [🗣️**Project presentation**](https://docs.google.com/presentation/d/1asW_ME-yh7RMnZsJwp18_0_Lb19hRCX5/edit?usp=drive_link&ouid=111899210983321629360&rtpof=true&sd=true)
 <br>
@@ -81,32 +81,37 @@ Extracted an audio statistics dataset on Kaggle and used Python and R to perform
 🧰**Tools used:**  OpenCV, Python (Jupyter notebook), R (RStudio), SciPy, NumPy, Seaborn <br>
 🔑**Keywords:** video analysis, image processing, object tracking, time series analysis, linear regression, error analysis, data visualization. <br>
 [🗣️**Project presentation**](https://docs.google.com/presentation/d/1zoPF6esKpLIvcKp6EGz1OubzBa34gI1Ysxdli4kYFGo/edit?usp=sharing) <br>
-#
-## <img align="left" width="250" height="200" src="Portfolio_images/space_mosaic2.png">  [Space Image Processing with High-Performance Computing](https://github.com/hina0830g/GALEX_montage) <br>
+
+
+## [Space Image Processing with High-Performance Computing](https://github.com/hina0830g/GALEX_montage) <br>
+<img align="left" width="250" height="200" src="Portfolio_images/space_mosaic2.png">  
+
 💬**Description:** Queried space images (a set of 3780 x 3780 arrays), performed object detection and applied Gaussian filters, montaged the files to create mosaics. Rendered over 50GB of images using supercomputers called HPC. <br>
 🧰**Tools used:** bash shell, SSH, HPC systems, Linux Python (Jupyter notebook), Pandas, NumPy <br>
 🔑**Keywords:**  big data, supercomputers, parallel computing, image processing/analysis, object detection, multidimensional arrays<br>
 <br>
-#
 
-## <img align="left" width="250" height="200" src="Portfolio_images/AGN_NASA.jpg">  [Linux Simulations & Data Analysis of Black Hole Environment](https://github.com/hina0830g/Summer2022_NASA_Goddard/tree/main) <br>
+## [Linux Simulations & Data Analysis of Black Hole Environment](https://github.com/hina0830g/Summer2022_NASA_Goddard/tree/main) <br>
+<img align="left" width="250" height="200" src="Portfolio_images/AGN_NASA.jpg">  
+
 💬**Description:** Duration my summer internship at NASA, I ran numerical simulations of the gas near supermassive black hole in Linux and developed Python modules to analyze the simulation results. I developed data visualization codes to tell the story the interpretation of the results and findings. <br>
 🧰**Tools used:**  Nano, Cloudy (Linux software), Python SciPy, NumPy, Matplotlib <br>
 🔑**Keywords:** linux computing, numerical simulations, modelling, data visualizationm, documentation <br>
 [🗣️**Project presentation**](https://docs.google.com/presentation/d/16yqPdSYZ2PommPl5Mye2Qg7igPNHcY4--4dA71-tooM/edit?usp=sharing) <br>
 
-#
 
+## [Statistical Study of Ultra-diffuse Galaxies](https://github.com/hina0830g/Research/tree/master/UDGs) <br>
+<img align="left" width="250" height="200" src="Portfolio_images/UDG_image.jpg">  
 
-## <img align="left" width="250" height="200" src="Portfolio_images/UDG_image.jpg">  [Statistical Study of Ultra-diffuse Galaxies](https://github.com/hina0830g/Research/tree/master/UDGs) <br>
 💬**Description:** Ran Python query to extract astronomical data taken by a telescope and performed statistical analysis on the extracted data. I calculated the weighted distribution and mean number of the galaxies within the given radius by performing power law fit & Monte Carlo simulations. <br>
 🧰**Tools used:**  Python (Jupyter notebook), Astropy query, SciPy, NumPy, Matplotlib <br>
 🔑**Keywords:** large query,  Monte Carlo, power-law fit, error analysis, data visualization, scientific writing <br>
 [🗣️**Research Poster**](https://aas240-aas.ipostersessions.com/Default.aspx?s=58-75-41-D7-48-BC-58-35-A5-3F-A5-44-08-3B-36-CF#) <br>
 
-#
 
-## <img align="left" width="250" height="200" src="Portfolio_images/WASP_75B.png">  [Time Series Analysis of Exoplanet & Animated Simulation ](https://github.com/hina0830g/Summer2022_NASA_Goddard/tree/main) <br>
+## [Time Series Analysis of Exoplanet & Animated Simulation ](https://github.com/hina0830g/Summer2022_NASA_Goddard/tree/main) <br>
+<img align="left" width="250" height="200" src="Portfolio_images/WASP_75B.png">  
+
 💬**Description:** Wrote Python scripts that perform time series analysis on.txt files involving brightness of a star. Used Verlet integration to numerically solve 2nd order differential equation of motion and calculated orbital speed, force and more. Lastly, Matplotlib was used to create animations serving as simulation of the movement of the exoplanet. <br>
 🧰**Tools used:**  Python (Spyder), SciPy, NumPy, Matplotlib <br>
 🔑**Keywords:** Numerical Analysis, Verlet Integration, Time Series Analysis, Animation, Data Visualization <br>
