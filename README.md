@@ -72,20 +72,20 @@ Extracted an audio statistics dataset on Kaggle and used Python and R to perform
 <br>
 #
 
-## <img align="left" width="300" height="250" src="Portfolio_images/nobel.jpg">  [2D Particle Tracking & Random Walk Analysis](https://github.com/hina0830g/Random_Walk_Analysis) <br>
+## <img align="left" width="250" height="200" src="Portfolio_images/nobel.jpg">  [2D Particle Tracking & Random Walk Analysis](https://github.com/hina0830g/Random_Walk_Analysis) <br>
 💬**Description:** Observed the random motions of 1 μm particles in solutions and tracked their locations over time from videos using OpenCV. I used the locations (coordinates) to calculate mean squared displacement and experimentally determined Avogadro's Number. A replication of 1926 Physics Nobel Prize experiment. <br>
 🧰**Tools used:**  OpenCV, Python (Jupyter notebook), R (RStudio), SciPy, NumPy, Seaborn <br>
 🔑**Keywords:** video analysis, image processing, object tracking, time series analysis, linear regression, error analysis, data visualization. <br>
 [🗣️**Project presentation**](https://docs.google.com/presentation/d/1zoPF6esKpLIvcKp6EGz1OubzBa34gI1Ysxdli4kYFGo/edit?usp=sharing) <br>
 #
-## <img align="left" width="300" height="250" src="Portfolio_images/space_mosaic2.png">  [Space Image Processing with High-Performance Computing](https://github.com/hina0830g/GALEX_montage) <br>
+## <img align="left" width="250" height="200" src="Portfolio_images/space_mosaic2.png">  [Space Image Processing with High-Performance Computing](https://github.com/hina0830g/GALEX_montage) <br>
 💬**Description:** Queried space images (a set of 3780 x 3780 arrays), performed object detection and applied Gaussian filters, montaged the files to create mosaics. Rendered over 50GB of images using supercomputers called HPC. <br>
 🧰**Tools used:** bash shell, SSH, HPC systems, Linux Python (Jupyter notebook), Pandas, NumPy <br>
 🔑**Keywords:**  big data, supercomputers, parallel computing, image processing/analysis, object detection, multidimensional arrays<br>
 <br>
 #
 
-## <img align="left" width="300" height="250" src="Portfolio_images/AGN_NASA.jpg">  [Linux Simulations & Data Analysis of Black Hole Environment](https://github.com/hina0830g/Summer2022_NASA_Goddard/tree/main) <br>
+## <img align="left" width="250" height="200" src="Portfolio_images/AGN_NASA.jpg">  [Linux Simulations & Data Analysis of Black Hole Environment](https://github.com/hina0830g/Summer2022_NASA_Goddard/tree/main) <br>
 💬**Description:** Duration my summer internship at NASA, I ran numerical simulations of the gas near supermassive black hole in Linux and developed Python modules to analyze the simulation results. I developed data visualization codes to tell the story the interpretation of the results and findings. <br>
 🧰**Tools used:**  Nano, Cloudy (Linux software), Python SciPy, NumPy, Matplotlib <br>
 🔑**Keywords:** linux computing, numerical simulations, modelling, data visualizationm, documentation <br>
@@ -94,7 +94,7 @@ Extracted an audio statistics dataset on Kaggle and used Python and R to perform
 #
 
 
-## <img align="left" width="300" height="250" src="Portfolio_images/UDG_image.jpg">  [Statistical Study of Ultra-diffuse Galaxies](https://github.com/hina0830g/Research/tree/master/UDGs) <br>
+## <img align="left" width="250" height="200" src="Portfolio_images/UDG_image.jpg">  [Statistical Study of Ultra-diffuse Galaxies](https://github.com/hina0830g/Research/tree/master/UDGs) <br>
 💬**Description:** Ran Python query to extract astronomical data taken by a telescope and performed statistical analysis on the extracted data. I calculated the weighted distribution and mean number of the galaxies within the given radius by performing power law fit & Monte Carlo simulations. <br>
 🧰**Tools used:**  Python (Jupyter notebook), Astropy query, SciPy, NumPy, Matplotlib <br>
 🔑**Keywords:** large query,  Monte Carlo, power-law fit, error analysis, data visualization, scientific writing <br>
@@ -102,7 +102,7 @@ Extracted an audio statistics dataset on Kaggle and used Python and R to perform
 
 #
 
-## <img align="left" width="300" height="250" src="Portfolio_images/WASP_75B.png">  [Time Series Analysis of Exoplanet & Animated Simulation ](https://github.com/hina0830g/Summer2022_NASA_Goddard/tree/main) <br>
+## <img align="left" width="250" height="200" src="Portfolio_images/WASP_75B.png">  [Time Series Analysis of Exoplanet & Animated Simulation ](https://github.com/hina0830g/Summer2022_NASA_Goddard/tree/main) <br>
 💬**Description:** Wrote Python scripts that perform time series analysis on.txt files involving brightness of a star. Used Verlet integration to numerically solve 2nd order differential equation of motion and calculated orbital speed, force and more. Lastly, Matplotlib was used to create animations serving as simulation of the movement of the exoplanet. <br>
 🧰**Tools used:**  Python (Spyder), SciPy, NumPy, Matplotlib <br>
 🔑**Keywords:** Numerical Analysis, Verlet Integration, Time Series Analysis, Animation, Data Visualization <br>
