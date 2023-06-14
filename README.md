@@ -63,7 +63,7 @@ I am a recent college graduate with 3 years of statistical data analysis experie
 
 <h2 align="center"><b> 🏫 Projects 🏫</b></h2>
 
-## <img align="left" width="280" height="270" src="Portfolio_images/tempo_hist_nolabels.png"> [Spotify 2000-2019 Top Hits Audio Stats Analysis](https://github.com/hina0830g/Spotify-Top-Charts-Analysis)<br>
+## <img align="left" width="225" height="225" src="Portfolio_images/tempo_hist_nolabels.png"> [Spotify 2000-2019 Top Hits Audio Stats Analysis](https://github.com/hina0830g/Spotify-Top-Charts-Analysis)<br>
 💬**Description:** 
 Extracted an audio statistics dataset on Kaggle and used Python and R to perform trend analysis on top 2000 tracks on Spotify between '00-19. We identified critical patterns and transition of the music trends over 2 decades by running linear regression and hypothesis testing. <br>
 🧰**Tools used:**  Python, R, SciPy, NumPy, seaborn, Matplotlib, Kaggle<br>
