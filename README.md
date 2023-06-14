@@ -16,8 +16,8 @@ I am a recent college graduate with 3 years of statistical data analysis experie
     <p><b> I am a ... 👀</b></p>
     <ul>
         <li>:atom:  BS Physics Graduate, Class of 2023 </li>
-        <li>📡 Former NASA Goddard (GSFC-6620) Intern </li>
-        <li>🔭 Astrophysics Research Scientist  </li>
+        <li>📡 Former NASA Goddard Intern worked on Python data analysis </li>
+        <li>🔭 ML Researcher in Astrophysics </li>
         <li>🎼 Musician & aspiring music data analyst </li>
     </ul>
 <br>
@@ -140,14 +140,14 @@ Mass Loss Rates](https://iopscience.iop.org/article/10.3847/2041-8213/ac50aa/pdf
 | 🎹 **Music** | Music Theory I & II, Electronic Music production, Music Business, Vocal Techniques, Guitar Techniques I & II, Concert & Marching Band |
 
 ### 🏅 Awards: 
-Honors and Awards	Grantor	Issue Date <br>
-College of Science Galileo Circle Award Academic Year '22-23 <br>
-Stewrd Observatory Bychinsky, A. Eliane Astronomy Scholarship Academic Year '21-22 <br>
-Stewrd Observatory Bychinsky, A. Eliane Astronomy Scholarship Academic Year '20-21 <br>
-Dean's List	Fall '21 	12/16/2021 <br>
-Dean's List	Spring '21 	05/13/2021 <br>
-Academic Distinction	Academic Year '19-20 <br>
-Honorable Mention	 Spring '20 05/14/2020 <br>
+
+College of Science Galileo Circle Award | Academic Year '22-23 <br>
+Stewrd Observatory Bychinsky, A. Eliane Astronomy Scholarship | Academic Year '21-22 <br>
+Stewrd Observatory Bychinsky, A. Eliane Astronomy Scholarship | Academic Year '20-21 <br>
+Dean's List | Fall '21  <br>
+Dean's List | Spring '21 	 <br>
+Academic Distinction | Academic Year '19-20 <br>
+Honorable Mention | Spring '20 <br>
 
 <h2 align="center"><b>🎵 Finally...</b></h2>
 
