@@ -72,17 +72,17 @@ Extracted an audio statistics dataset on Kaggle and used Python and R to perform
 #
 
 ## <img align="left" width="300" height="250" src="Portfolio_images/nobel.jpg">  [2D Particle Tracking & Random Walk Analysis](https://github.com/hina0830g/Random_Walk_Analysis) <br>
-💬**Description:** Observed the random motions of 1 μm particles in solutions and tracked their locations over time using OpenCV. I used the locations (coordinates) to calculate mean squared displacement and experimentally determined Avogadro's Number with Python and R. This is a replication of 1926 Physics Nobel Prize winnning experiment. <br>
+💬**Description:** Observed the random motions of 1 μm particles in solutions and tracked their locations over time from videos using OpenCV. I used the locations (coordinates) to calculate mean squared displacement and experimentally determined Avogadro's Number. A replication of 1926 Physics Nobel Prize experiment. <br>
 🧰**Tools used:**  OpenCV, Python (Jupyter notebook), R (RStudio), SciPy, NumPy, Seaborn <br>
-🔑**Keywords:** image processing, object tracking, time series analysis, linear regression, error analysis, data visualization, aaaa add more? <br>
+🔑**Keywords:** video analysis, image processing, object tracking, time series analysis, linear regression, error analysis, data visualization. <br>
 [🗣️**Project presentation**](https://docs.google.com/presentation/d/1zoPF6esKpLIvcKp6EGz1OubzBa34gI1Ysxdli4kYFGo/edit?usp=sharing) <br>
 #
 ## <img align="left" width="300" height="250" src="Portfolio_images/space_mosaic2.png">  [Space Image Processing with High-Performance Computing](https://github.com/hina0830g/GALEX_montage) <br>
-💬**Description:** Queried space images (a set of 3780 x 3780 arrays), performed object detection and applied Gaussian filters, montaged the files to create mosaics. Rendered over 50GB of images. <br>
+💬**Description:** Queried space images (a set of 3780 x 3780 arrays), performed object detection and applied Gaussian filters, montaged the files to create mosaics. Rendered over 50GB of images using supercomputers called HPC. <br>
 🧰**Tools used:** bash shell, SSH, HPC systems, Linux Python (Jupyter notebook), Pandas, NumPy <br>
 🔑**Keywords:**  big data, supercomputers, parallel computing, image processing/analysis, object detection, multidimensional arrays<br>
 <br>
-<br>
+
 #
 
 ## <img align="left" width="300" height="250" src="Portfolio_images/UDG_image.jpg">  [Statistical Study of Ultra-diffuse Galaxies](https://github.com/hina0830g/Research/tree/master/UDGs) <br>
@@ -126,7 +126,7 @@ Mass Loss Rates](https://iopscience.iop.org/article/10.3847/2041-8213/ac50aa/pdf
 <h2 align="center"><b>👩‍🎓 Education 👩‍🎓</b></h2>
 
 ### Degree:
-:atom: Bachelor of Science In Physics from the University of Arizona <br>
+:atom: Bachelor of Science In **Physics** from the University of Arizona <br>
 ### Minors:
 🔭 Astronomy, 🔢 Mathematics, 🎹 Music
 
@@ -162,11 +162,11 @@ Honorable Mention	 Spring '20 05/14/2020 <br>
 ### Notes:
 - [x] Avatar
 - [x] Socials 
-- [ ] Align Skills section
+- [x] Align Skills section
 - [ ] Edit octocat image & make it wider
 - [ ] Spotify played_min tracking
 - [ ] Add Spotify API under project
 - [ ] Spotify 
-- [ ] Create repos for spring '23
+- [x] Create repos for spring '23
 - [ ] Create readme for existing repos
 - [ ] Decorate
