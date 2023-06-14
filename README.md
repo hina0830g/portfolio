@@ -4,7 +4,7 @@
 I am a recent college graduate with 3 years of statistical data analysis experience in Python, R, and Linux **seeking employment!** <br>
 - 🔭 I’m currently developing image-processing **Machine Learning Algorithm** to be used in research 🌌
 - 🌱 I’m currently learning Tableau
-- 💬 Ask me about my hyper custom Spotify playlist generator & research projects
+- 💬 Ask me about my statistical analysis research projects
 - 📫 Reach me out at **hina0830g@gmail.com**
 - 😄 Pronouns: she/her
 - 🎷 Fun fact: I have a Minor in Music & I play Alto Saxophone (since 2012~)✨!
@@ -84,7 +84,7 @@ Extracted an audio statistics dataset on Kaggle and used Python and R to perform
 
 
 ## [Space Image Processing with High-Performance Computing](https://github.com/hina0830g/GALEX_montage) <br>
-<img align="left" width="250" height="200" src="Portfolio_images/space_mosaic2.png">  
+<img align="right" width="250" height="200" src="Portfolio_images/space_mosaic2.png">  
 
 💬**Description:** Queried space images (a set of 3780 x 3780 arrays), performed object detection and applied Gaussian filters, montaged the files to create mosaics. Rendered over 50GB of images using supercomputers called HPC. <br>
 🧰**Tools used:** bash shell, SSH, HPC systems, Linux Python (Jupyter notebook), Pandas, NumPy <br>
@@ -92,7 +92,7 @@ Extracted an audio statistics dataset on Kaggle and used Python and R to perform
 <br>
 
 ## [Linux Simulations & Data Analysis of Black Hole Environment](https://github.com/hina0830g/Summer2022_NASA_Goddard/tree/main) <br>
-<img align="left" width="250" height="200" src="Portfolio_images/AGN_NASA.jpg">  
+<img align="right" width="250" height="200" src="Portfolio_images/AGN_NASA.jpg">  
 
 💬**Description:** Duration my summer internship at NASA, I ran numerical simulations of the gas near supermassive black hole in Linux and developed Python modules to analyze the simulation results. I developed data visualization codes to tell the story the interpretation of the results and findings. <br>
 🧰**Tools used:**  Nano, Cloudy (Linux software), Python SciPy, NumPy, Matplotlib <br>
@@ -101,7 +101,7 @@ Extracted an audio statistics dataset on Kaggle and used Python and R to perform
 
 
 ## [Statistical Study of Ultra-diffuse Galaxies](https://github.com/hina0830g/Research/tree/master/UDGs) <br>
-<img align="left" width="250" height="200" src="Portfolio_images/UDG_image.jpg">  
+<img align="right" width="250" height="200" src="Portfolio_images/UDG_image.jpg">  
 
 💬**Description:** Ran Python query to extract astronomical data taken by a telescope and performed statistical analysis on the extracted data. I calculated the weighted distribution and mean number of the galaxies within the given radius by performing power law fit & Monte Carlo simulations. <br>
 🧰**Tools used:**  Python (Jupyter notebook), Astropy query, SciPy, NumPy, Matplotlib <br>
@@ -110,7 +110,7 @@ Extracted an audio statistics dataset on Kaggle and used Python and R to perform
 
 
 ## [Time Series Analysis of Exoplanet & Animated Simulation ](https://github.com/hina0830g/Summer2022_NASA_Goddard/tree/main) <br>
-<img align="left" width="250" height="200" src="Portfolio_images/WASP_75B.png">  
+<img align="right" width="250" height="200" src="Portfolio_images/WASP_75B.png">  
 
 💬**Description:** Wrote Python scripts that perform time series analysis on.txt files involving brightness of a star. Used Verlet integration to numerically solve 2nd order differential equation of motion and calculated orbital speed, force and more. Lastly, Matplotlib was used to create animations serving as simulation of the movement of the exoplanet. <br>
 🧰**Tools used:**  Python (Spyder), SciPy, NumPy, Matplotlib <br>
@@ -172,11 +172,11 @@ Honorable Mention | Spring '20 <br>
 - [x] Avatar
 - [x] Socials 
 - [x] Align Skills section
-- [ ] Format project section
+- [x] Format project section
 - [ ] Edit octocat image & make it wider
 - [ ] Spotify played_min tracking
 - [ ] Add Spotify API under project
-- [ ] Spotify 
+- [x] Spotify 
 - [x] Create repos for spring '23
 - [ ] Create readme for existing repos
 - [ ] Decorate
