@@ -117,6 +117,14 @@ Extracted an audio statistics dataset on Kaggle and used Python and R to perform
 🔑**Keywords:** Numerical Analysis, Verlet Integration, Time Series Analysis, Animation, Data Visualization <br>
 [🗣️**Project Presentation**](https://docs.google.com/presentation/d/1g2RyK2_tuMdq62ASCVdIIQu7vu4UddExgxco-eRV1OE/edit?usp=sharing) <br>
 
+## [Spotify API Custom Playlist Generator](https://github.com/hina0830g/Spotify_Playlist_Generator) <br>
+<img align="right" width="250" height="200" src="Portfolio_images/music.avif"> 
+
+💬**Description:** Created a personalized songs recommendation & playlist generator algorithm that uses artists & existing playlists of your choice to give you better recommendations. You can customize the alrgorithm even further by specifying target genre, danceability, and more. <br>
+🧰**Tools used:**  Spotify API, Spotipy, Python, Pandas <br>
+🔑**Keywords:** Web API, Python <br>
+<br>
+<br>
 
 <h2 align="center"><b>✍️ Papers ✍️</b></h2>
 
