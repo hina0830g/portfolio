@@ -36,6 +36,8 @@ I am a recent college graduate with 4 years of statistical data analysis experie
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-grey?style=flat&logo=labview)
+![MATLAB](https://img.shields.io/badge/MATLAB-blue?style=flat)
 
 ### IDEs and Libraries:
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
