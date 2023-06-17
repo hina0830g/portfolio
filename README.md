@@ -175,16 +175,3 @@ Honorable Mention | Spring '20 <br>
 
 ### 🎧 Currently listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=67ikzw44o5zkysi7wt5uvs8om&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-### Notes:
-- [x] Avatar
-- [x] Socials 
-- [x] Align Skills section
-- [x] Format project section
-- [ ] Edit octocat image & make it wider
-- [ ] Spotify played_min tracking
-- [ ] Add Spotify API under project
-- [x] Spotify 
-- [x] Create repos for spring '23
-- [ ] Create readme for existing repos
-- [ ] Decorate
