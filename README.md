@@ -25,7 +25,8 @@ I am a recent college graduate with 4 years of statistical data analysis experie
 **Find My ...** <br>
 [![Resume](https://img.shields.io/badge/Resume-turquoise?style=for-the-badge)](https://drive.google.com/file/d/1Xwp51UJ3q-c_QvR9FMuXZJAnVRmgva-B/view?usp=drive_link) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hina0830g@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hina0830g/) 
 
-##
+<br>
+
 <h2 align="center"><b>💻 Skills 💻</b> </h2>
 
 ### Languages:
@@ -126,6 +127,7 @@ Extracted an audio statistics dataset on Kaggle and used Python and R to perform
 💬**Description:** Created a personalized songs recommendation & playlist generator algorithm that uses artists & existing playlists of your choice to give you better recommendations. You can customize the alrgorithm even further by specifying target genre, danceability, and more. <br>
 🧰**Tools used:**  Spotify API, Spotipy, Python, Pandas <br>
 🔑**Keywords:** Web API, Python <br>
+<br>
 <br>
 <br>
 
