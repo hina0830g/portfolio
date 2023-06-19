@@ -112,7 +112,7 @@ Extracted an audio statistics dataset on Kaggle and used Python and R to perform
 [🗣️**Research Poster**](https://aas240-aas.ipostersessions.com/Default.aspx?s=58-75-41-D7-48-BC-58-35-A5-3F-A5-44-08-3B-36-CF#) <br>
 
 
-## [Time Series Analysis of Exoplanet & Animated Simulation ](https://github.com/hina0830g/Summer2022_NASA_Goddard/tree/main) <br>
+## [Time Series Analysis of Exoplanet & Animated Simulation ](https://github.com/hina0830g/PHYS305) <br>
 <img align="right" width="250" height="200" src="Portfolio_images/WASP_75B.png">  
 
 💬**Description:** Wrote Python scripts that perform time series analysis on.txt files involving brightness of a star. Used Verlet integration to numerically solve 2nd order differential equation of motion and calculated orbital speed, force and more. Lastly, Matplotlib was used to create animations serving as simulation of the movement of the exoplanet. <br>
