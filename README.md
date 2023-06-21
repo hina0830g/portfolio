@@ -9,6 +9,8 @@ I am a recent college graduate with 4 years of statistical data analysis experie
 - 😄 Pronouns: she/her
 - 🎷 Fun fact: I have a Minor in Music & I play Alto Saxophone (since 2012~)✨!
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 <h2 align="center"><b> 📖 About Me 📖</b></h2>
 <img align="right" src="Portfolio_images/octocat_flipped.png" width="300" height="300" />
 
