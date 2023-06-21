@@ -19,7 +19,7 @@ I am a recent college graduate with 4 years of statistical data analysis experie
     <ul>
         <li>:atom:  BS Physics Graduate, Class of 2023 </li>
         <li>📡 Former NASA Goddard Intern worked on Python data analysis </li>
-        <li>🔭 Data Analysis Researcher in Astrophysics </li>
+        <li>🔭 Machine Learning Researcher in Astrophysics </li>
         <li>🎼 Musician & aspiring data analyst </li>
     </ul>
 <br>
