@@ -25,7 +25,7 @@ I am a recent college graduate with 4 years of statistical data analysis experie
 <br>
 
 **Find My ...** <br>
-[![Resume](https://img.shields.io/badge/Resume-turquoise?style=for-the-badge)](https://drive.google.com/file/d/1Xwp51UJ3q-c_QvR9FMuXZJAnVRmgva-B/view?usp=drive_link) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hina0830g@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hina0830g/) 
+[![Resume](https://img.shields.io/badge/Resume-turquoise?style=for-the-badge)](https://drive.google.com/file/d/1Rd8U_bA3c792T7Wl17uhbipZige1Iap_/view?usp=drive_link) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hina0830g@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hina0830g/) 
 
 <br>
 
