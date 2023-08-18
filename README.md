@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hello! Welcome to My Portfolio🌻</h1>
 
-I am a recent college graduate with 4 years of statistical data analysis experience in Python, R, and Linux **seeking employment!** <br>
+I am a researcher with 4 years of programming experience Python and Linux **seeking employment!** Proficient in Data Analysis and Data Visualization using Python and R. <br>
 - 🔭 I’m currently developing image-processing **Supercomputer Algorithm** to be used in research 🌌
 - 🌱 I’m currently learning Machine Learning & Tableau
 - 💬 Ask me about my statistical analysis research projects
