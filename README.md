@@ -1,13 +1,13 @@
 
 <h1 align="center"> Hello! Welcome to My Portfolio🌻</h1>
 
-I am a researcher with 4 years of programming experience in Python and Linux **seeking employment!** Proficient in Data Analysis and Data Visualization using Python and R. <br>
-- 🔭 I’m currently developing image-processing **Supercomputer Algorithm** to be used in research 🌌
+I am a researcher with 4 years of programming experience in Python and Linux! I am interested in the intersection between music and technology/data science. <br>
+- 🔭 I’m currently developing image-processing Algorithm with **Supercomputer (HPC) and Machine Learning** to be used in research 🌌
 - 🌱 I’m currently learning Machine Learning & Tableau
-- 💬 Ask me about my statistical analysis research projects
+- 💬 Ask me about any of my past work listed on the projects section on this page
 - 📫 Reach me out at **hina0830g@gmail.com**
 - 😄 Pronouns: she/her
-- 🎷 Fun fact: I have a Minor in Music & I play Alto Saxophone (since 2012~)✨!
+- 🎷 Fun fact: I have a Minor in Music & I play Roland Aerophone using my Alto Saxophone skills✨!
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
@@ -18,9 +18,9 @@ I am a researcher with 4 years of programming experience in Python and Linux **s
     <p><b> I am a ... 👀</b></p>
     <ul>
         <li>:atom:  BS Physics Graduate </li>
-        <li>📡 Former NASA Goddard Intern worked on Python data analysis </li>
+        <li>📡 Former NASA Goddard Intern studied supermassive black holes with Python </li>
         <li>🔭 Computational Researcher in Astrophysics </li>
-        <li>🎼 Musician & aspiring data analyst </li>
+        <li>🎼 Musician & aspiring data scientist </li>
     </ul>
 <br>
 
@@ -69,15 +69,14 @@ I am a researcher with 4 years of programming experience in Python and Linux **s
 
 <h2 align="center"><b> 🏫 Projects 🏫</b></h2>
 
-## [Spotify 2000-2019 Top Hits Audio Stats Analysis](https://github.com/hina0830g/Spotify-Top-Charts-Analysis)<br>
+## [Time Series Analysis of Audio Statistics - 2000-2019 Top Hits](https://github.com/hina0830g/Spotify-Top-Charts-Analysis)<br>
 <img align="right" width="250" height="200" src="Portfolio_images/tempo_hist_nolabels.png"> 
 
 💬**Description:** 
 Extracted an audio statistics dataset on Kaggle and used Python and R to perform trend analysis on top 2000 tracks on Spotify between '00-19. We identified critical patterns and transition of the music trends over 2 decades by running linear regression and hypothesis testing. <br>
 🧰**Tools used:**  Python, R markdown, SciPy, NumPy, seaborn, Kaggle<br>
-🔑**Keywords:** clustering, pattern recognition,  time series analysis, linear regression, predictive modeling, two-sample hypothesis test, data visualization<br>
-[🗣️**Project presentation**](https://docs.google.com/presentation/d/1asW_ME-yh7RMnZsJwp18_0_Lb19hRCX5/edit?usp=drive_link&ouid=111899210983321629360&rtpof=true&sd=true)
-<br>
+🔑**Keywords:** clustering, pattern recognition,  time series analysis, linear regression, predictive modeling, two-sample hypothesis test, data visualization <br>
+[🗣️**Project presentation**](https://docs.google.com/presentation/d/1asW_ME-yh7RMnZsJwp18_0_Lb19hRCX5/edit?usp=drive_link&ouid=111899210983321629360&rtpof=true&sd=true) <br>
 
 
 ## [2D Particle Tracking & Random Walk Analysis](https://github.com/hina0830g/Random_Walk_Analysis) <br>
@@ -167,10 +166,8 @@ Mass Loss Rates](https://iopscience.iop.org/article/10.3847/2041-8213/ac50aa/pdf
 ### 🏅 Awards: 
 
 College of Science Galileo Circle Award | Academic Year '22-23 <br>
-Stewrd Observatory Bychinsky, A. Eliane Astronomy Scholarship | Academic Year '21-22 <br>
-Stewrd Observatory Bychinsky, A. Eliane Astronomy Scholarship | Academic Year '20-21 <br>
-Dean's List | Fall '21  <br>
-Dean's List | Spring '21 	 <br>
+Steward Observatory Bychinsky, A. Eliane Astronomy Scholarship | Academic Year(s) '20-22 <br>
+Dean's List | Spring & Fall '21  <br>
 Academic Distinction | Academic Year '19-20 <br>
 Honorable Mention | Spring '20 <br>
 
