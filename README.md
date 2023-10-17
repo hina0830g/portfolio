@@ -138,7 +138,7 @@ Extracted an audio statistics dataset on Kaggle and used Python and R to perform
 <h2 align="center"><b>✍️ Papers ✍️</b></h2>
 
 ### Publications:
-* [Systematically Measuring Ultra-Diffuse Galaxies (SMUDGes). IV. Ultra-Diffuse Satellites of Milky Way Analogs](https://arxiv.org/pdf/2303.00774.pdf) (Astrophysical Journal, 1st Author)
+* [Systematically Measuring Ultra-Diffuse Galaxies (SMUDGes). IV. Ultra-Diffuse Satellites of Milky Way Analogs](https://iopscience.iop.org/article/10.3847/1538-3881/acf4f4) (Astrophysical Journal, 1st Author)
 * [Systematically Measuring Ultra-Diffuse Galaxies (SMUDGes). V. Low Surface Brightness Satellites of L* Galaxies](https://aas240-aas.ipostersessions.com/Default.aspx?s=58-75-41-D7-48-BC-58-35-A5-3F-A5-44-08-3B-36-CF#) (American Astronomical Society 240th Annual Conference)
 * [Determining Dispersal Mechanisms of Protoplanetary Disks Using Accretion and Wind
 Mass Loss Rates](https://iopscience.iop.org/article/10.3847/2041-8213/ac50aa/pdf) (Astrophysical Journal, 5th Author)
