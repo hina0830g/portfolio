@@ -2,12 +2,15 @@
 <h1 align="center"> Hello! Welcome to My Portfolio🌻</h1>
 
 I am a researcher with 4 years of programming experience in Python and Linux! I am interested in the intersection between music and technology/data science. <br>
+
 - 🔭 I’m currently developing image-processing Algorithm with **Supercomputer (HPC) and Machine Learning** to be used in research 🌌
 - 🌱 I’m currently learning Machine Learning & Tableau
 - 💬 Ask me about any of my past work listed on the projects section on this page
 - 📫 Reach me out at **hina0830g@gmail.com**
 - 😄 Pronouns: she/her
 - 🎷 Fun fact: I have a Minor in Music & I play Roland Aerophone using my Alto Saxophone skills✨!
+
+ Latest publication: [Goto et al. 2023 🆕](https://iopscience.iop.org/article/10.3847/1538-3881/acf4f4) <br>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
