@@ -8,7 +8,7 @@ I am a researcher with 4 years of programming experience in Python and Linux! I 
 - 💬 Ask me about any of my past work listed on the projects section on this page
 - 📫 Reach me out at **hina0830g@gmail.com**
 - 😄 Pronouns: she/her
-- 🎷 Fun fact: I have a Minor in Music & I play Roland Aerophone using my Alto Saxophone skills✨!
+- 🎷 Fun fact: I have a Minor in Music and I play Roland Aerophone & Alto Saxophone✨!
 
  Latest publication: [Goto et al. 2023 🆕](https://iopscience.iop.org/article/10.3847/1538-3881/acf4f4) <br>
 
@@ -91,7 +91,7 @@ Extracted an audio statistics dataset on Kaggle and used Python and R to perform
 [🗣️**Project presentation**](https://docs.google.com/presentation/d/1zoPF6esKpLIvcKp6EGz1OubzBa34gI1Ysxdli4kYFGo/edit?usp=sharing) <br>
 
 
-## [Space Image Processing with High-Performance Computing](https://github.com/hina0830g/GALEX_montage) <br>
+## [Space Image Processing with High-Performance Computing](https://github.com/hina0830g/GALEX_montage/tree/dev) <br>
 <img align="right" width="250" height="200" src="Portfolio_images/space_mosaic2.png">  
 
 💬**Description:** Queried space images (a set of 3780 x 3780 arrays), performed object detection and applied Gaussian filters, montaged the files to create mosaics. Rendered over 50GB of images using supercomputers called HPC. <br>
