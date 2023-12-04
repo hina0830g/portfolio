@@ -28,7 +28,7 @@ I am a researcher with 4 years of programming experience in Python and Linux! I 
 <br>
 
 **Find My ...** <br>
-[![Resume](https://img.shields.io/badge/Resume-turquoise?style=for-the-badge)](https://drive.google.com/file/d/1Rd8U_bA3c792T7Wl17uhbipZige1Iap_/view?usp=drive_link) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hina0830g@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hina0830g/) 
+[![Resume](https://img.shields.io/badge/Resume-turquoise?style=for-the-badge)](https://drive.google.com/file/d/1Rd8U_bA3c792T7Wl17uhbipZige1Iap_/view?usp=drive_link) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hina0830g@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hina0830g/) [![ORCiD](https://img.shields.io/badge/ORCiD-green?style=for-the-badge)](https://orcid.org/0000-0002-0268-5707) 
 
 <br>
 
