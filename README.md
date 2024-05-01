@@ -5,7 +5,7 @@ I am a researcher with 4 years of programming experience in Python and Linux! I 
 
 - 🔭 I’m currently developing image-processing Algorithm with **Supercomputer (HPC) and Machine Learning** to be used in research 🌌
 - 🌱 I’m currently learning Machine Learning & Tableau
-- 💬 Ask me about any of my past work listed on the projects section on this page
+- 💬 Ask me about any of my past work listed in the projects section on this page
 - 📫 Reach me out at **hina0830g@gmail.com**
 - 😄 Pronouns: she/her
 - 🎷 Fun fact: I have a Minor in Music and I play Roland Aerophone & Alto Saxophone✨!
@@ -21,7 +21,7 @@ I am a researcher with 4 years of programming experience in Python and Linux! I 
     <p><b> I am a ... 👀</b></p>
     <ul>
         <li>:atom:  BS Physics Graduate </li>
-        <li>📡 Former NASA Goddard Intern studied supermassive black holes with Python </li>
+        <li>📡 Former NASA Goddard Intern (Python) </li>
         <li>🔭 Computational Researcher in Astrophysics </li>
         <li>🎼 Musician & aspiring data scientist </li>
     </ul>
